@@ -1,2 +1,2 @@
 # simulation
-Stochastic Simulation - Time to Failure
+Stochastic Simulations
